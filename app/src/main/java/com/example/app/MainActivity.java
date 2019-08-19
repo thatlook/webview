@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
 
         // REMOTE RESOURCE
         // mWebView.loadUrl("http://example.com");
+        mWebView.loadUrl("https://scope.klaytn.com");
         // mWebView.setWebViewClient(new MyWebViewClient());
 
         // LOCAL RESOURCE
